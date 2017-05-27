@@ -5,6 +5,7 @@ chardet==3.0.3
 Django==1.11.1
 future==0.16.0
 git==0.2.0
+gunicorn==19.7.1
 Jinja2==2.9.6
 MarkupSafe==1.0
 multidict==2.1.5
