@@ -2,7 +2,7 @@ aiohttp==2.0.7
 async-timeout==1.2.1
 certifi==2017.4.17
 chardet==3.0.3
-Django==1.11.1
+Django==1.11.28
 future==0.16.0
 git==0.2.0
 gunicorn==19.7.1
